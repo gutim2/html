@@ -1,0 +1,49 @@
+body{
+
+    margin: 0px;
+}
+
+.blog{
+   background-color: #fffafa;
+   margin: 30px auto 30px auto;
+   width: 70%;
+   height: 100%;
+}
+
+.hr{
+   
+
+}
+
+.first{
+    padding: 25px;
+    margin-top: -50px;
+}
+
+.second{
+    padding: 25px;
+}
+
+.thrith{
+    padding: 25px;
+}
+
+h1{
+font-family: Montserrat;
+font-size: 32px;
+}
+
+.date {
+    font-family: Roboto;
+    color: #008080;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+
+.post-content {
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
